@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue Mange t'es mort
 
 You can use the [editor on GitHub](https://github.com/Wilz511/wilz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
